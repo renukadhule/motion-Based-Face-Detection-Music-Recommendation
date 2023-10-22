@@ -1,2 +1,3 @@
 # motion-Based-Face-Detection-Music-Recommendation
-This Project is Based On Emotion Based recognition Of Face.
+"Motion-Based Face Detection & Music Recommendation" is a project that combines face detection technology with music recommendations.
+It allows users to control music playback with their facial expressions and recommends music based on their mood and movements.
